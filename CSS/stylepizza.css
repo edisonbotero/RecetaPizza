@@ -38,6 +38,8 @@ body {
   background-color: #f3e5d8;
   justify-content: center;
   padding: 30px;
+   
+ 
 }
 
 
@@ -236,10 +238,55 @@ footer {
   unicode-bidi: isolate;
 }
 
+
+
+/*estilos para formulario envio de recetas**************************************/
+
+.frmreceta1{
+  margin-bottom: 15px;
+  
+}
+
+.text{
+  width: 575px;
+  font-size: 20px;
+  padding: 9px;
+  background-color: #C0C0C0 ;
+}
+
+.frrecetas {
+
+  margin-top: 20PX;
+  color:#7e4333;
+  text-align:left;
+    
+}
+
+#texto{
+  width: 575px;
+  font-size: 20px;
+  padding: 50px;
+  background-color: #C0C0C0 ;
+}
+
+.button{
+  background-color: #255538;
+  margin: 20px 0 0 100px;
+   height: 40px;
+   width: 70px;
+   border: 2px solid black;
+   border-radius: 8px;
+   font-size: 40px;
+   text-align: left;
+   display: grid;
+   place-content: center;
+   
+}
+
  /*adaptacion a 600 o menos px***************************************************************************** */
 
  
-@media screen and (max-width: 500px) {
+ @media screen and (max-width: 500px) {
 
   /*Configuracion del grid****************************************************************************** */
   .container {
