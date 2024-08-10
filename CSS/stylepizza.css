@@ -89,6 +89,46 @@ article {
 
   
 }
+.imagen3 {
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  padding: 200px 18px 18px;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: left;
+  background-image: url("../Image/pizzanapolitana.jpg");
+
+  
+}
+
+.imagen4 {
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  padding: 200px 18px 18px;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: left;
+  background-image: url("../Image/pizzamexicana.jpg");
+
+  
+}
+
+.imagen5 {
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  padding: 200px 18px 18px;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: left;
+  background-image: url("../Image/pizzapaisa.jpg");
+
+  
+}
+
+
 
 .secion1 {
   margin: 8px;
